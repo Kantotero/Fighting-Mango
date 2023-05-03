@@ -1,0 +1,33 @@
+{
+  "title": "ST✰R: Strike it Rich",
+  "description": "Defeater of Hagakekre Idol. Kengan Omega Femoid version",
+  "artist": "MAAMamia~",
+  "author": "Sandwich",
+  "cover": "https://i0.wp.com/comikey.com/media/comics/nDqxpk/ed294342ffc4.png?fit=1000%2C1000&quality=95",
+  "chapters": {
+    "0": {
+      "title": "Time for a revolution",
+      "volume": "",
+      "last_updated": "1683123135",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DRHNWvz"
+      }
+    },
+    "1.1": {
+      "title": "Every bird with one stone (Part 1)",
+      "volume": "",
+      "last_updated": "1683123232",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9uKRCv1"
+      }
+    },
+    "1.2": {
+      "title": "Every bird with one stone (part 2)",
+      "volume": "",
+      "last_updated": "1683123301",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/JIPWhXO"
+      }
+    }
+  }
+}
