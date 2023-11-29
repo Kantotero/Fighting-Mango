@@ -10,7 +10,9 @@
       "volume": "",
       "last_updated": "1701224828",
       "groups": {
-        "": "/proxy/api/reddit/gallery/113sih0"
+        "": [
+          "https://cubari.moe/read/reddit/113sih0/1/1/"
+        ]
       }
     }
   }
